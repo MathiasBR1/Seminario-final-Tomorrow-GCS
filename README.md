@@ -14,3 +14,6 @@ Comunicados- nessa aba o usuário deverá acessar arquivos com os avisos que rec
 Agenda do Aluno- Nessa aba o aluno poderá visualizar o calendário de aulas do dia, bem como anotações dos professores acerca de eventuais atividades. Alunos poderão visualizar as atividades, Professores, Coordenadores e Diretores poderão editar as anotações. ao clicar nessa aba o usuário deve se deparar com o calendário que lista as aulas do dia e o horário de cada aula, ao clicar na aula, o usuário poderá visualizar as anotações referidas àquela aula. por padrão a aba deve abrir na data referente ao dia em que se está, mas o usuário poderá acessar anotações referidas a dias passados e futuros
 
 O site deverá possibilitar o acesso por qualquer navegador, seja em um dispositivo móvel(Android ou IOS), Linux, Windows ou MacOS
+
+
+![Fluxograma Do Usuário](https://github.com/user-attachments/assets/9bb8c0f5-66b6-4151-9030-78b97132513c)
