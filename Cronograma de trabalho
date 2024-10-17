@@ -20,13 +20,17 @@ Interface base-prioridade alta-dev3(11/11)
 
 Comunicados- prioridade média-dev2(20/12)
 Agenda do aluno-prioridade média-dev3(20/12)
-Sistema de autenticação-prioridade média-dev1(20/12)
+Sistema de autenticação-prioridade média-dev1(06/01)
 
 
-Notas-prioridade baixa-dev2(20/01)
-Provas e gabaritos-prioridade baixa-dev3(20/01)
+Notas-prioridade média-dev2(20/01)
+Provas e gabaritos-prioridade média-dev3(20/01)
 
+Bugfixes(autenticação-prioridade alta)-dev1
+Bugfixes acerca de problemas que comprometam o funcionamento do site(prioridade média)- o desenvolvedor responsável por aquela parte
+Bugfixes acerca de problemas menores-prioridade baixa- o desenvolvedor responsável por aquela parte
 
+O Desenvolvedor 1 será o responsável por juntar os sistemas diferentes
 
 
 Ajustes finais até 14/02
